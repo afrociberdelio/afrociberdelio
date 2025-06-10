@@ -6,7 +6,7 @@ As a **Python developer**, I specialize in **FastAPI**, **Flask** and **Django**
 
 Expertise in **databases** like **MongoDB**, **PostgreSQL**, and **MySQL**, always aiming for efficiency and scalability.  
 
-An **Computer Networks** undergraduate at **Est'acio de Sá University**, I’m always ready to innovate and deliver impactful solutions.  
+An **Computer Networks** undergraduate at **Estácio de Sá University**, I’m always ready to innovate and deliver impactful solutions.  
 
 **Python Backend Developer** at **Natura&Co**, an Cosmetics e-commerce . 🚀
 
