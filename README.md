@@ -20,7 +20,8 @@ An **Computer Networks** undergraduate at **Estácio de Sá University**, I’m 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrociberdelio&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
- ![Streak](https://streak-stats.demolab.com/?user=afrociberdelio&theme=algolia)
+ [![Streak](https://streak-stats.demolab.com/?user=afrociberdelio&theme=algolia)
+ # [![GitHub Streak](https://streak-stats.demolab.com?user=afrociberdelio&theme=algolia&mode=weekly)](https://git.io/streak-stats)
 
  ## Techs:
     
