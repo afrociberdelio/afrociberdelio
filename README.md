@@ -21,7 +21,7 @@ An **Computer Networks** undergraduate at **Estácio de Sá University**, I’m 
 </div>
 
  # ![Streak](https://streak-stats.demolab.com/?user=afrociberdelio&theme=algolia)
- ![GitHub Streak](https://streak-stats.demolab.com?user=afrociberdelio&theme=algolia&mode=weekly)](https://git.io/streak-stats)
+ ![GitHub Streak](https://github.com/afrociberdelio/github-streaks/blob/main/assets/Streaks/streak-ocean.svg?raw=true)
 
  ## Techs:
     
